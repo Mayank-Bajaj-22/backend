@@ -1,0 +1,4 @@
+    - furst think about what information is going to be stored or saved in database, do not start directly with login page data modelling
+    - codesandbox
+    - github codespaces
+    - stackblitz
