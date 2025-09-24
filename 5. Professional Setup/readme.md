@@ -1,0 +1,1 @@
+when connecting database , always use try catch and async await
